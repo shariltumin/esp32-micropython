@@ -1,6 +1,6 @@
 # Micropython firmwares that support esp32.
 
-**LATEST** - The latest firmware is under 1-11-20191010 MicroPython v1.11-412-g2863dcdf4.
+**LATEST** - The latest firmware is under 1-11-20191107 MicroPython v1.11-571-g7e374d231.
 The firmware was compiled without web-repl and upip modules.
 
 To flash the firmware.bin follow the steps below:
