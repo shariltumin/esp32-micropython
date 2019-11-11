@@ -1,6 +1,6 @@
 # Micropython on esp32.
 
-You can find firmware compiled for esp32 under firmware.
-The firmware was compiled without web-repl and upip modules.
+**Latest** firmware is MicroPython v1.11-571-g7e374d231.
+The firmware was compiled without web-repl, upip, and help modules.
 
 Read [my blog](https://kopimojo.blogspot.com/).
