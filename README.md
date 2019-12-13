@@ -4,6 +4,15 @@
 
 The firmware include LittleFS.
 
+You can use LittleFS instead of FatFS(default) by doing these in REPL:
+
+```
+>>> import os
+>>> os.VfsLfs2.mkfs(bdev)
+
+```
+
+
 You can download [custommade.zip](https://github.com/shariltumin/esp32-cam-micropython/blob/master/custommade.zip) and read [this blog](https://kopimojo.blogspot.com/2019/12/custom-made-sometimes-it-is-nice-to-be.html) to build custom made firmware.
 
 
